@@ -4,7 +4,7 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: <span>The Rogue Scholar Documentation</span>,
   project: {
-    link: 'https://github.com/front-matter/docs',
+    link: 'https://rogue-scholar.org',
   },
   chat: {
     link: 'https://discord.gg/wJAxWjWU',
