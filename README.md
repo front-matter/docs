@@ -1,6 +1,6 @@
-# The Rogue Scholar Documentation
+# Front Matter Documentation
 
-This is a documentation repository for the Rogue Scholar project. It is built using [Nextra](https://nextra.site).
+This is a documentation repository for the Front Matter organization. It is built using [Nextra](https://nextra.site).
 
 ## License
 
